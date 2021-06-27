@@ -6,10 +6,10 @@ Discord Developer/Configer
 WebSite Designer
 
 ## 🚀💻 Technologies & Tools
-  [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/X_.jvd)
-  [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/SexyDevil)
-  [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](javadfrt@gmail.com)
-  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+  [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
+  [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/3exyDevil)](https://www.youtube.com/c/SexyDevil)
+  [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javadfrt@gmail.com)](javadfrt@gmail.com)
+  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=″𝚂𝚎𝚡𝚢𝙳𝚎𝚟𝚒𝚕 𝙶𝚘𝚛𝙶𝚒#2882)
   (https://discord.gg/7UCgBADNTu)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
