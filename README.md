@@ -1,8 +1,8 @@
 ## Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m SexyDevil, 17 y.o.
-</br>
-Discord Developer/Configer
+I´m SexyDevil
+</br></br>
+Discord Developer/Configer</br>
 WebSite Designer
 
 ## 🚀💻 Technologies & Tools
