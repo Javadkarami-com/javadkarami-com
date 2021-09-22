@@ -34,12 +34,12 @@ WebSite Designer
 </a>
 
 <a href="https://github.com/3exydevil/Discord-Self-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=Discord-Self-Bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/3exydevil/sms-bomber">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=ffff_color=ffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=sms-bomber&title_color=ffffff&text_color=c9cacc&icon_color=ffff_color=ffff" />
 </a>    
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=3exydevil)
 
