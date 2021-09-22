@@ -7,7 +7,7 @@ Im SexyDevil
 </br>
 Im Part of The Hyper Team🙋‍♂️
 </br>
-Discord ID:″𝚂𝚎𝚡𝚢𝙳𝚎𝚟𝚒𝚕 𝙶𝚘𝚛𝙶𝚒#2882
+Discord ID:! 𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸ ᵍᵒʳᵍⁱ#8153
 </br></br>
 Discord Developer/Configer</br>
 WebSite Designer
