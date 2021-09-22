@@ -24,8 +24,24 @@ WebSite Designer
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=3exyDevil&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3exyDevil&hide=TeX&layout=compact)
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/3exydeivl/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exydeivl&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/3exydeivl/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/3exydeivl/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydeivl&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
+<a href="https://github.com/3exydeivl/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydeivl&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=ffff_color=ffff" />
+</a>    
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
+
+## 🔔 My Lastest Github Metrics
+![Metrics](https://metrics.lecoq.io/3exydevil?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
