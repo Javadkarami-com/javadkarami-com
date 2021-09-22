@@ -1,7 +1,7 @@
 ## Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
   [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
-  [![Youtube Badge](https://img.shields.io/badge/-SexyDevil-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/3exyDevil)](https://www.youtube.com/c/SexyDevil)
+  [![Youtube Badge](https://img.shields.io/badge/-SexyDevil-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/3exyDevil)](https://www.youtube.com/c/SexyDevil)</br>
   [![Gmail Badge](https://img.shields.io/badge/-javadfrt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javadfrt@gmail.com)](javadfrt@gmail.com)</br>
 Im Javad
 </br>
