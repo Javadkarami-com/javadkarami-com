@@ -21,9 +21,6 @@ WebSite Designer
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-
-## ⚡ GitHub Stats
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/3exydevil/3exydevil">
@@ -39,7 +36,7 @@ WebSite Designer
 
 
 <a href="https://github.com/3exydevil/sms-bomber">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=sms-bomber&title_color=ffff&text_color=c9cacc&icon_color=ffff_color=ffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=sms-bomber&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=3exydevil)
 
