@@ -29,16 +29,16 @@ WebSite Designer
 <a href="https://github.com/3exydevil/3exydevil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exydevil&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=ffff&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/3exydevil/MartinHeinz">
+<a href="https://github.com/3exydevil/3exydevil">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=3exydevil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="3exydevil's GitHub Stats" />
 </a>
 
-<a href="https://github.com/3exydevil/python-project-blueprint">
+<a href="https://github.com/3exydevil/Discord-Self-Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/3exydevil/go-project-blueprint">
+<a href="https://github.com/3exydevil/sms-bomber">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=ffff_color=ffff" />
 </a>    
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=3exydevil)
