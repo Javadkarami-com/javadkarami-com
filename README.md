@@ -30,7 +30,7 @@ WebSite Designer
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=sms-bomber&title_color=ffff&text_color=c9cacc&icon_color=ffff&bg_color=1d1f21" />
 </a> 
 
-⚡ Technologies
+## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
