@@ -1,14 +1,14 @@
 ## Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-You Can Reach me from :
-  [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
-  [![Youtube Badge](https://img.shields.io/badge/-SexyDevil-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/3exyDevil)](https://www.youtube.com/c/SexyDevil)
-  [![Gmail Badge](https://img.shields.io/badge/-javadfrt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javadfrt@gmail.com)](javadfrt@gmail.com)</br>
 Im Javad
 </br>
 Part of The Hyper Team🙋‍♂️
 </br>
-Discord ID:! 𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸ ᵍᵒʳᵍⁱ#8153
+Discord ID: ! 𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸ ᵍᵒʳᵍⁱ#8153
 </br>
+You Can Reach me from :
+  [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
+  [![Youtube Badge](https://img.shields.io/badge/-SexyDevil-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/3exyDevil)](https://www.youtube.com/c/SexyDevil)
+  [![Gmail Badge](https://img.shields.io/badge/-javadfrt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javadfrt@gmail.com)](javadfrt@gmail.com)</br>
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
