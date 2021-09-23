@@ -3,7 +3,7 @@ Im Javad
 </br>
 Part of The Hyper Team🙋‍♂️
 </br>
-![Discord</br>](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord&height=2px&width=2px) ID: ! 𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸ ᵍᵒʳᵍⁱ#8153
+![Discord</br>](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord&height=4px&width=4px) ID: ! 𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸ ᵍᵒʳᵍⁱ#8153
 </br></br>
 You Can Reach me from :
   [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
