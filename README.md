@@ -3,7 +3,7 @@ Im Javad
 </br>
 Part of The Hyper Team🙋‍♂️
 </br>
-Discord ID: ! 𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸ ᵍᵒʳᵍⁱ#8153
+![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord) ID: ! 𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸ ᵍᵒʳᵍⁱ#8153
 </br></br>
 You Can Reach me from :
   [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
@@ -19,8 +19,7 @@ You Can Reach me from :
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)</br>
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)</br></br>
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)</br></br>
 Discord Developer/Configer</br>
 Website Designer(learning)</br>
 Front-End developer</br>
