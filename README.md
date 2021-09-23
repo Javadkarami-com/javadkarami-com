@@ -2,11 +2,9 @@
 Im Javad
 </br>
 Part of The Hyper Team🙋‍♂️
-</br>
-![Discord</br>](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord) ID: ! 𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸ ᵍᵒʳᵍⁱ#8153
 </br></br>
 You Can Reach me from :
-[![Discord Badge](https://img.shields.io/badge/-awfwaf-purple?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/app)](https://discord.com/app)
+  [![Discord Badge](https://img.shields.io/badge/- ! 𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸ ᵍᵒʳᵍⁱ#8153-black?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/sexydevil)](https://discord.com/app)
   [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
   [![Gmail Badge](https://img.shields.io/badge/-javadfrt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javadfrt@gmail.com)](javadfrt@gmail.com)</br>
 ## ⚡ Technologies
