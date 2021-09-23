@@ -3,7 +3,7 @@ Im Javad
 </br>
 Part of The Hyper Team🙋‍♂️
 </br>
-![Discord</br>](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord) ID: ! 𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸ ᵍᵒʳᵍⁱ#8153
+![Discord</br>](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord&height=2px&width=2px) ID: ! 𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸ ᵍᵒʳᵍⁱ#8153
 </br></br>
 You Can Reach me from :
   [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
@@ -38,8 +38,8 @@ Front-End developer</br>
 </a>
 
 
-<a href="https://github.com/3exydevil/Discord-Radio-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=Discord-Radio-bot&title_color=ffff&text_color=c9cacc&icon_color=ffff&bg_color=1d1f21" />
+<a href="https://github.com/3exydevil/Dsicord-Radio-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=Dsicord-Radio-Bot&title_color=ffff&text_color=c9cacc&icon_color=ffff&bg_color=1d1f21" />
 </a> 
 
 ## 🔔 My Lastest Github Metrics
