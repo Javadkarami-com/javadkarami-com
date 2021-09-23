@@ -1,7 +1,7 @@
 ## Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-💻 Im Javad
+Im Javad 💻
 </br>
-🙋‍♂️ Part of The Hyper Team
+Part of The Hyper Team 🙋‍♂️
 </br></br>
 📞 You Can Reach me from :
   [![Discord Badge](https://img.shields.io/badge/-!%20𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸%20ᵍᵒʳᵍⁱ%208153-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/sexydevil)](https://discords.com/bio/p/sexydevil)
