@@ -1,9 +1,9 @@
 ## Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-Im Javad
+💻 Im Javad
 </br>
-Part of The Hyper Team🙋‍♂️
+🙋‍♂️ Part of The Hyper Team
 </br></br>
-You Can Reach me from :
+📞 You Can Reach me from :
   [![Discord Badge](https://img.shields.io/badge/-!%20𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸%20ᵍᵒʳᵍⁱ%208153-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/sexydevil)](https://discords.com/bio/p/sexydevil)
   [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
   [![Gmail Badge](https://img.shields.io/badge/-javadfrt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javadfrt@gmail.com)](javadfrt@gmail.com)</br>
@@ -20,7 +20,7 @@ You Can Reach me from :
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)</br></br>
 Discord Developer/Configer</br>
-Website Designer(learning)</br>
+Website Designer</br>
 Front-End developer</br>
 
 ## &#x1f4c8; GitHub Stats
