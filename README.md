@@ -38,9 +38,5 @@ Front-End developer</br>
 </a>
 
 
-<a href="https://github.com/3exydevil/Dsicord-Radio-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=Dsicord-Radio-Bot&title_color=ffff&text_color=c9cacc&icon_color=ffff&bg_color=1d1f21" />
-</a> 
-
 ## 🔔 My Lastest Github Metrics
 ![Metrics](https://metrics.lecoq.io/3exydevil?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
