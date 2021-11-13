@@ -22,7 +22,7 @@
 												     
 
 ## ⚡ Technologies
-<div align="center">
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Skil" width="90"><br>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="Skil" width="90"><br>
 <img src="https://aleen42.github.io/badges/src/premiere.svg" alt="Skil" width="90"><br>
@@ -34,4 +34,4 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=whit" alt="Skil" width="90"><br>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Skil" width="90"><br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Skil" width="90"><br>
-</div>
+
