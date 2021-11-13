@@ -1,6 +1,7 @@
 im Javad </br>
 Part of Hyper team </br>
 Front-end Developer </br>
+More info About me ! [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz) </br>
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
 <div align="center">
@@ -20,7 +21,7 @@ Front-end Developer </br>
 <br>
 <br>  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3exydevil&theme=dark"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exydevil&theme=blue-green"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exydevil&hide=css&theme=blue-green"></p>
 
 												     
 
