@@ -3,12 +3,27 @@ Im Javad 💻
 </br>
 Part of The Hyper Team 🙋‍♂️
 </br></br>
-📞 You Can Reach me from :
-  [![Discord Badge](https://img.shields.io/badge/-ञ%20𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸%20ᵍᵒʳᵍⁱ%202672-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/sexydevil)](https://discords.com/bio/p/sexydevil)
-  [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
-  [![Gmail Badge](https://img.shields.io/badge/-javadfrt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javadfrt@gmail.com)](javadfrt@gmail.com)</br>
-## ☕ Buy me Coffe
-<a href="https://coffeebede.ir/buycoffee/sexydevil"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
+
+<div align="center">
+<a href="mailto:javadfrt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="90"></a><br>
+<a href="http://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width="90"></a>
+<a href="https://www.instagram.com/X_.jvd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" width="90">
+<a href="https://discords.com/bio/p/3exydevil"><img src="	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="90">
+</div>
+
+<h2>Want to support my team ?</h2>
+<div style="width:150px; height:150px;" align="center"><a href="https://coffeebede.ir/buycoffee/sexydevil"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></div>
+
+	
+<h3 align="center"> 
+<br>
+<br>
+<br>
+<br>  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3exydevil&theme=dark"></p>
+												     
+
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -21,20 +36,3 @@ Part of The Hyper Team 🙋‍♂️
 Discord Developer/Configer</br>
 Website Designer</br>
 Front-End developer</br>
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/3exydevil/3exydevil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exydevil&hide=css&title_color=ffff&text_color=ffff&icon_color=ffff&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/3exydevil/3exydevil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=3exydevil&show_icons=true&line_height=27&count_private=true&title_color=ffff&text_color=ffff&icon_color=ffff&bg_color=1d1f21" alt="3exydevil's GitHub Stats" />
-</a>
-
-<a href="https://github.com/3exydevil/Discord-Self-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3exydevil&repo=Discord-Self-Bot&title_color=ffff&text_color=c9cacc&icon_color=ffff&bg_color=1d1f21" />
-</a>
-
-
-## 🔔 My Lastest Github Metrics
-![Metrics](https://metrics.lecoq.io/3exydevil?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
