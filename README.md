@@ -4,7 +4,7 @@
 <a href="mailto:javadfrt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="90"></a><br>
 <a href="http://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width="90"></a>
 <a href="https://www.instagram.com/X_.jvd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" width="90">
-<a href="https://discords.com/bio/p/3exydevil"><img src="	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="90">
+<a href="https://discords.com/bio/p/3exydevil"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="90">
 </div>
 
 <h2>Buy me Coffe</h2>
@@ -24,5 +24,5 @@
 <a href="mailto:javadfrt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="90"></a><br>
 <a href="http://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width="90"></a>
 <a href="https://www.instagram.com/X_.jvd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" width="90">
-<a href="https://discords.com/bio/p/3exydevil"><img src="	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="90">
+<a href="https://discords.com/bio/p/3exydevil"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="90">
 </div>
