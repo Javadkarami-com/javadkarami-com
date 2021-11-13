@@ -21,7 +21,7 @@ More info About me ! [![saythanks](https://img.shields.io/badge/say-thanks-ff69b
 <br>
 <br>  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3exydevil&theme=dark"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exydevil&hide=css,html5&theme=blue-green"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exydevil&hide=css;html5&theme=blue-green"></p>
 
 												     
 
