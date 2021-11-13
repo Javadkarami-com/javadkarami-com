@@ -11,10 +11,7 @@ More info About me ! [![saythanks](https://img.shields.io/badge/javadk-.site-747
 <a href="mailto:javadfrt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="90" height="30"></a><br>
 </div>
 
-<h2>Buy me Coffe</h2>
-<div style="width:150px; height:150px;" align="center"><a href="https://coffeebede.ir/buycoffee/sexydevil"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></div>
-
-	
+<h2>Stats </h2>
 <h3 align="center"> 
 <br>
 <br>
