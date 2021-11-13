@@ -1,7 +1,7 @@
 im Javad </br>
 Part of Hyper team </br>
 Front-end Developer </br>
-More info About me ! [![saythanks](https://img.shields.io/badge/javadk-.site-ff69b4.svg)](https://javadk.site/)</br>
+More info About me ! [![saythanks](https://img.shields.io/badge/javadk-.site-747474.svg)](https://javadk.site/)</br>
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
 <div align="center">
