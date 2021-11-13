@@ -1,6 +1,6 @@
-im Javad </br>
-Part of Hyper team </br>
-Front-end Developer </br>
+my name is Javad 👨‍💻</br>
+Part of Hyper team ⚡️</br>
+Front-end Developer 🎭</br>
 More info About me ! [![saythanks](https://img.shields.io/badge/javadk-.site-747474.svg)](https://javadk.site/)</br>
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
@@ -11,7 +11,7 @@ More info About me ! [![saythanks](https://img.shields.io/badge/javadk-.site-747
 <a href="mailto:javadfrt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="90" height="30"></a><br>
 </div>
 
-<h2>Stats </h2>
+<h2> 🎗 Stats</h2>
 <h3 align="center"> 
 <br>
 <br>
