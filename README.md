@@ -12,7 +12,7 @@ More info About me ! [![saythanks](https://img.shields.io/badge/javadk-.site-747
 <a href="https://discords.com/bio/p/3exydevil"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="90" 
 </div>
 
-<h2> 🎗 Stats</h2>
+<h2>🎗 Stats 🎗</h2>
 <h3 align="center"> 
 <br>
 <br>
@@ -23,7 +23,7 @@ More info About me ! [![saythanks](https://img.shields.io/badge/javadk-.site-747
 
 												     
 
-## ⚡ Technologies
+## ⚡ Technologies ⚡
 <div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Skil" width="90" height="30">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Skil" width="90" height="30">
