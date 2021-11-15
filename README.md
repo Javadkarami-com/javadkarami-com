@@ -5,7 +5,6 @@ More info About me [![saythanks](https://img.shields.io/badge/javadk-.site-74747
 <h2 align="center">Contact & Support me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
 <div align="center">
-
 <a href="https://coffeebede.ir/buycoffee/sexydevil"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="120" height="30"></a></br>
 <a href="https://telegram.me/CoR0Na_VlRUS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width="90" height="30"></a>
 <a href="https://www.instagram.com/X_.jvd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" width="90" height="30">
@@ -13,7 +12,7 @@ More info About me [![saythanks](https://img.shields.io/badge/javadk-.site-74747
 <a href="https://discords.com/bio/p/3exydevil"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="90"></a>
 </div>
 
-<h2>🎗 Stats 🎗</h2>
+<h2 align="center">🎗 Stats 🎗</h2>
 <h3 align="center"> 
 <br>
 <br>
@@ -24,7 +23,7 @@ More info About me [![saythanks](https://img.shields.io/badge/javadk-.site-74747
 
 												     
 
-## ⚡ Technologies ⚡
+<h2 align="center">⚡ Technologies ⚡</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Skil" width="90" height="30">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Skil" width="90" height="30">
