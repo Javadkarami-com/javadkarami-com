@@ -2,9 +2,10 @@ my name is Javad 👨‍💻</br>
 Part of Hyper team ⚡️</br>
 Front-end Developer 🎭</br>
 More info About me [![saythanks](https://img.shields.io/badge/javadk-.site-747474.svg)](https://javadk.site/)</br>
+<div align="center">
 <h2>Contact & Support me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
-<div align="center">
+
 <a href="https://coffeebede.ir/buycoffee/sexydevil"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="120" height="30"></a></br>
 <a href="https://telegram.me/CoR0Na_VlRUS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width="90" height="30"></a>
 <a href="https://www.instagram.com/X_.jvd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" width="90" height="30">
