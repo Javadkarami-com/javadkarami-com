@@ -2,7 +2,7 @@ my name is Javad 👨‍💻</br>
 Part of Hyper team ⚡️</br>
 Front-end Developer 🎭</br>
 More info About me [![saythanks](https://img.shields.io/badge/javadk-.site-747474.svg)](https://javadk.site/)</br>
-<h2 align="center">Contact & Support me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
+<h2 align="center"><img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"> Contact & Support me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
 <div align="center">
 <a href="https://coffeebede.ir/buycoffee/sexydevil"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="120" height="30"></a></br>
