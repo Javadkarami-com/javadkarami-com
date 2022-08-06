@@ -69,5 +69,5 @@
     Visitors
 </h1>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/3exyDevil/Discord-account-handler)
 
