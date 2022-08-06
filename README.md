@@ -39,13 +39,3 @@
     <img src="https://img.shields.io/badge/dart-171717?style=for-the-badge&logo=dart&logoColor=fff" alt="dart" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/flutter-171717?style=for-the-badge&logo=flutter&logoColor=fff" alt="flutter" style="border-radius:15px"/>
 </div>
-
-<br><br>
-
-<h2 align="center">Github Stats</h2>
-<h3 align="center"> 
-<br><br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3exydevil&theme=dark"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exydevil&hide=css&theme=dark"></p>
-
-												    
