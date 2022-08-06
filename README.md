@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hi, AKA Javad karami
+<h2>Hi, I AKA Javad karami
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
 </h2>
 </div>
@@ -12,9 +12,9 @@
 <br>
 
 <p align="center">
-    <a href="https://instagram.com/hadi._.azt"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=fff" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://discord.com/invite/6vhPVYkNU9"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=fff" style="border-radius:15px" alt="Discord"></a>
-    <a href="mailto:azarihadi81@gmail.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" style="border-radius:15px"></a>
+    <a href="https://instagram.com/_javdpv"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=fff" style="border-radius:15px" alt="Instagram"></a>
+    <a href="https://discords.com/bio/p/sexydevil"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=fff" style="border-radius:15px" alt="Discord"></a>
+    <a href="mailto:javadfrt@gmail.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
 <br><br>
@@ -54,10 +54,7 @@
 
 <h2 align="center">Github Stats</h2>
 <h3 align="center"> 
-<br>
-<br>
-<br>
-<br>  
+<br><br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3exydevil&theme=dark"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exydevil&hide=css&theme=dark"></p>
 
