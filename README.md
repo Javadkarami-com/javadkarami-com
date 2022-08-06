@@ -25,6 +25,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/typescript-171717?style=for-the-badge&logo=typescript&logoColor=fff" alt="typescript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=fff" alt="Node.js" style="border-radius:15px"/>
     <br/>
