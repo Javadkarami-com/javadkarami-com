@@ -45,7 +45,7 @@
 </h1>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exyDevil&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=000&title_color=fff&icon_color=fff&text_color=ffffff&count_private=true"  alt=""/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exyDevil&langs_count=50&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=000&title_color=fff&icon_color=fff&text_color=ffffff&count_private=true"  alt=""/>
 </div>
 <br/>
 
