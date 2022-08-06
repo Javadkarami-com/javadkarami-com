@@ -69,5 +69,5 @@
     Visitors
 </h1>
 <div align="center">
-![Profile View Counter](https://komarev.com/ghpvc/?username=3exyDevil)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 </div>
