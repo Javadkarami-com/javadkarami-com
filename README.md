@@ -38,6 +38,9 @@
 <br>
     <img src="https://img.shields.io/badge/c-171717?style=for-the-badge&logo=c&logoColor=fff" alt="c" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/mysql-171717?style=for-the-badge&logo=mysql&logoColor=fff" alt="mysql" style="border-radius:15px"/>
+<br>
+    <img src="https://img.shields.io/badge/dart-171717?style=for-the-badge&logo=dart&logoColor=fff" alt="dart" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/flutter-171717?style=for-the-badge&logo=flutter&logoColor=fff" alt="flutter" style="border-radius:15px"/>
 </div>
 
 <br><br>
