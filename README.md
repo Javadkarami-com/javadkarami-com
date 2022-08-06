@@ -26,15 +26,18 @@
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/typescript-171717?style=for-the-badge&logo=typescript&logoColor=fff" alt="typescript" style="border-radius:15px"/>
+<br/>
     <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=fff" alt="Node.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" style="border-radius:15px"/>
+<br/>
+    <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=fff" alt="python" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/flask-171717.svg?style=for-the-badge&logo=flask&logoColor=fff" alt="flask" style="border-radius:15px"/>
     <br/>
     <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/c-171717?style=for-the-badge&logo=c&logoColor=fff" alt="csharp" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=fff" alt="PHP" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/flask-171717.svg?style=for-the-badge&logo=flask&logoColor=fff" alt="flask" style="border-radius:15px"/>
+<br>
+    <img src="https://img.shields.io/badge/c-171717?style=for-the-badge&logo=c&logoColor=fff" alt="c" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/mysql-171717?style=for-the-badge&logo=mysql&logoColor=fff" alt="mysql" style="border-radius:15px"/>
 </div>
 
 <br><br>
