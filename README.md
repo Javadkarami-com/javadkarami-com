@@ -60,14 +60,3 @@
 </div>
 <br><br>
 
-
-
-
-
-
-<h1 align="center">
-    Visitors
-</h1>
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/3exyDevil/Discord-account-handler)
-
