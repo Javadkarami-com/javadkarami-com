@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-    <a href="https://instagram.com/hadi._.azt"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=0000" style="border-radius:15px" alt="Instagram"></a>
+    <a href="https://instagram.com/hadi._.azt"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=000" style="border-radius:15px" alt="Instagram"></a>
     <a href="https://discord.com/invite/6vhPVYkNU9"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=191923" style="border-radius:15px" alt="Discord"></a>
     <a href="mailto:azarihadi81@gmail.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=191923" alt="Gmail" style="border-radius:15px"></a>
 </p>
