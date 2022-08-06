@@ -20,7 +20,7 @@
 <br><br>
 
 <h1 align="center">
-    Programming Language
+    Skills
 </h1>
 
 <div align="center">
@@ -32,22 +32,7 @@
     <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/csharp-171717?style=for-the-badge&logo=csharp&logoColor=fff" alt="csharp" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=fff" alt="PHP" style="border-radius:15px"/>
-</div>
-
-<br><br>
-
-<h1 align="center">
-    Tool And Technology
-</h1>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Electron.js-171717.svg?style=for-the-badge&logo=electron&logoColor=fff" alt="Electron.js" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" style="border-radius:15px"/>     
-    <img src="https://img.shields.io/badge/Discord.js-171717.svg?style=for-the-badge&logo=discord&logoColor=fff" alt="Express.js" style="border-radius:15px"/> 
-    <br/>
-    <img src="https://img.shields.io/badge/Heroku-171717?style=for-the-badge&logo=heroku&logoColor=fff" alt="Heroku" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=fff" alt="Git" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=fff" alt="Markdown" style="border-radius:15px"/>
+<img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" style="border-radius:15px"/>  
 </div>
 
 <br><br>
