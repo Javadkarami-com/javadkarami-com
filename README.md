@@ -39,3 +39,22 @@
     <img src="https://img.shields.io/badge/dart-171717?style=for-the-badge&logo=dart&logoColor=fff" alt="dart" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/flutter-171717?style=for-the-badge&logo=flutter&logoColor=fff" alt="flutter" style="border-radius:15px"/>
 </div>
+
+<h1 align="center">
+    GitHub Stats
+</h1>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exyDevil&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=fff&title_color=5459a7&icon_color=fff&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+<br/>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=3exyDevil&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=fff&title_color=fff&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+
+<br/>
+
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3exyDevil&theme=gruvbox_duo&background=fff&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+</div>
