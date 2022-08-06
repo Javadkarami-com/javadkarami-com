@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/dart-171717?style=for-the-badge&logo=dart&logoColor=fff" alt="dart" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/flutter-171717?style=for-the-badge&logo=flutter&logoColor=fff" alt="flutter" style="border-radius:15px"/>
 </div>
-
+<br><br>
 <h1 align="center">
     GitHub Stats
 </h1>
@@ -57,4 +57,17 @@
 
 <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3exyDevil&theme=gruvbox_duo&background=000&hide_border=true&ring=fff&currStreakLabel=fff&sideNums=fff&currStreakNum=fff&sideLabels=fff&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+<br><br>
+
+
+
+
+
+
+<h1 align="center">
+    Visitors
+</h1>
+<div align="center">
+![Profile View Counter](https://komarev.com/ghpvc/?username=3exyDevil)
 </div>
