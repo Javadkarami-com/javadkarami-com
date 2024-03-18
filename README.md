@@ -49,10 +49,6 @@
 </div>
 <br/>
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=3exyDevil&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000&title_color=fff&icon_color=fff&text_color=ffffff&count_private=true"  alt=""/>
-</div>
-
 <br/>
 
 <div align="center">
