@@ -5,15 +5,14 @@
 
 
 <div align="center">
-<h4 align="center"><samp> Javascript Developer - UI/UX Designer - Front-end Developer</samp></h4>
+<h4 align="center"><samp> Web Developer - UI/UX Designer - Full-stack Developer</samp></h4>
 </div>
 
 <br>
 
 <p align="center">
-    <a href="https://instagram.com/_javdpv"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=fff" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://discords.com/bio/p/sexydevil"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=fff" style="border-radius:15px" alt="Discord"></a>
-    <a href="mailto:javadfrt@gmail.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" style="border-radius:15px"></a>
+    <a href="https://javadkarami.com"><img src="https://img.shields.io/badge/website-171717?style=for-the-badge&logo=website&logoColor=fff" style="border-radius:15px" alt="website"></a>
+    <a href="mailto:contact@javadkarami.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
 <br><br>
