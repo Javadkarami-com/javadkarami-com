@@ -28,15 +28,15 @@
     <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" style="border-radius:15px"/>
 <br/>
-    <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=fff" alt="python" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/flask-171717.svg?style=for-the-badge&logo=flask&logoColor=fff" alt="flask" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/svelte-171717?style=for-the-badge&logo=svelte&logoColor=fff" alt="svelte" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/vue-171717.svg?style=for-the-badge&logo=vue&logoColor=fff" alt="vue" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS" style="border-radius:15px"/>
 <br>
-    <img src="https://img.shields.io/badge/c-171717?style=for-the-badge&logo=c&logoColor=fff" alt="c" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/mysql-171717?style=for-the-badge&logo=mysql&logoColor=fff" alt="mysql" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/dart-171717?style=for-the-badge&logo=dart&logoColor=fff" alt="dart" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/flutter-171717?style=for-the-badge&logo=flutter&logoColor=fff" alt="flutter" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/tailwindcss-171717?style=for-the-badge&logo=tailwindcss&logoColor=fff" alt="tailwind" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/nux-171717?style=for-the-badge&logo=nux&logoColor=fff" alt="nux" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/EJS-171717?style=for-the-badge&logo=ejs&logoColor=fff" alt="ejs" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/bootstrap-171717?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="bootstrap" style="border-radius:15px"/>
 </div>
 <br><br>
 <h1 align="center">
@@ -44,7 +44,7 @@
 </h1>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3exyDevil&langs_count=50&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=000&title_color=fff&icon_color=fff&text_color=ffffff&count_private=true"  alt=""/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadkarami-com&langs_count=50&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=000&title_color=fff&icon_color=fff&text_color=ffffff&count_private=true"  alt=""/>
 </div>
 <br/>
 
