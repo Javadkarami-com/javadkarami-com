@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" style="border-radius:15px"/>
 <br/>
     <img src="https://img.shields.io/badge/svelte-171717?style=for-the-badge&logo=svelte&logoColor=fff" alt="svelte" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/vue-171717.svg?style=for-the-badge&logo=vuejs&logoColor=fff" alt="vuejs" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/vuejs-171717.svg?style=for-the-badge&logo=vue.js&logoColor=fff" alt="vuejs" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS" style="border-radius:15px"/>
 <br>
