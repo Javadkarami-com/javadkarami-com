@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-    <a href="https://javadkarami.com"><img src="https://img.shields.io/badge/website-171717?style=for-the-badge&logo=web&logoColor=fff" style="border-radius:15px" alt="website"></a>
+    <a href="https://javadkarami.com"><img src="https://img.shields.io/badge/website-171717?style=for-the-badge&logo=globe&logoColor=fff" style="border-radius:15px" alt="website"></a>
     <a href="mailto:contact@javadkarami.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
