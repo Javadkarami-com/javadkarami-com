@@ -29,12 +29,12 @@
     <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js" style="border-radius:15px"/>
 <br/>
     <img src="https://img.shields.io/badge/svelte-171717?style=for-the-badge&logo=svelte&logoColor=fff" alt="svelte" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/vue-171717.svg?style=for-the-badge&logo=vue&logoColor=fff" alt="vue" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/vue-171717.svg?style=for-the-badge&logo=vuejs&logoColor=fff" alt="vuejs" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS" style="border-radius:15px"/>
 <br>
     <img src="https://img.shields.io/badge/tailwindcss-171717?style=for-the-badge&logo=tailwindcss&logoColor=fff" alt="tailwind" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/nuxt-171717?style=for-the-badge&logo=nuxt&logoColor=fff" alt="nuxt" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/nux-171717?style=for-the-badge&logo=nux&logoColor=fff" alt="nux" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/EJS-171717?style=for-the-badge&logo=ejs&logoColor=fff" alt="ejs" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/bootstrap-171717?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="bootstrap" style="border-radius:15px"/>
 </div>
